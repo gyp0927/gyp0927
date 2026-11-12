@@ -4,7 +4,6 @@
 
 - 🔭 专注 **AI Agent / 大模型应用开发**：智能体编排 · RAG · 检索系统 · 微调
 - 🌱 正在深入：多智能体框架（deepagents / LangGraph）、深度搜索
-- 🎯 求职方向：AI Agent 工程师 / 大模型应用开发
 - 🔗 作品集：**[gyp0927.github.io](https://gyp0927.github.io)**
 
 ### 🛠 技术栈
